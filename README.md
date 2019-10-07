@@ -13,6 +13,7 @@
 * Rogue
 * Nethack
 * Angband
+* nLarn
 
 ## Modern
 
@@ -20,6 +21,7 @@
 * DCSS
 * Shiren
 * PrincessRL
+* ToME
 
 ## Mine
 
