@@ -28,3 +28,5 @@
 * Toby the Trapper
 * Gruesome
 * Broken Bottle
+
+For more info see http://gamesofgrey.com
