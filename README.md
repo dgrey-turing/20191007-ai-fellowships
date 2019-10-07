@@ -1,2 +1,22 @@
-# 20191007-ai-fellowships
-Management of the AI Fellowships scheme
+# My favourite roguelikes
+
+## Mobile
+
+* Hoplite
+* Ending
+* WazHack
+
+## Old
+
+* ADOM
+* Crawl
+* Rogue
+* Nethack
+* Angband
+
+## Modern
+
+* Brogue
+* DCSS
+* Shiren
+* PrincessRL
